@@ -1,6 +1,5 @@
 {
- "homepage": "https://toobaattaria.github.io/expencetraker",
-
+  "homepage": "https://toobaattaria.github.io/expencetraker",
   "name": "expencetraker",
   "version": "0.1.0",
   "private": true,
@@ -19,7 +18,6 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-
   },
   "eslintConfig": {
     "extends": [
