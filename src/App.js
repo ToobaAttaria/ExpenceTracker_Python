@@ -1,6 +1,5 @@
 
 import './App.css';
-import NewExpense from './COMPONENTS/newexpence';
 import { useState } from 'react';
 import SideBar from './COMPONENTS/sidebar';
 import Cards from './COMPONENTS/cards';
